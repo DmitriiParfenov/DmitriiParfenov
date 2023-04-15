@@ -2,7 +2,7 @@
 
 ### :man_health_worker: Обо мне:
 
-- :books: Степень магистра в области биотехнолгии
+- :books: Степень магистра в области биотехнологии
 - :dna: 3+ года опыта коммерческой разработки генотерапевтических препаратов в Agile-контуре по принципу Scrum (да-да, гибкий подход уже даже в биотехе :sunglasses:)
 - :rocket: Сейчас осваиваю профессию `Python-разработчик` на курсах от Skypro
 - :receipt: Супер крутые книги, которые мне помогли в освоении новой профессии и по которым я готовлю отдельный проект для обобщения полученных знаний — [learning_materials](https://github.com/DmitriiParfenov/learning_materials.git):
@@ -25,3 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
 </div>
+
+### :student: Codewars:
+
+![codewars](https://www.codewars.com/users/dima12sik/badges/large)
