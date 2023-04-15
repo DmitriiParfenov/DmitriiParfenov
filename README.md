@@ -12,7 +12,7 @@
   - Computer Science для программиста-самоучки. Кори Альтхофф.
   - Грокаем алгоритмы. Адитья Бхаргава.
   
-- Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-parfenovdf-blue?style=flat&logo=Telegram&logoColor=white)]([https://t.me/f1llzzz](https://t.me/parfenovdf)) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dima1996sik@gmail.com)
+- Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-parfenovdf-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/parfenovdf) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dima1996sik@gmail.com)
 
 ### :hammer_and_wrench: Инструменты и технологии:
 
