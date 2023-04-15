@@ -1,16 +1,15 @@
-### Hi there 👋
+# Привет, меня зовут Дмитрий!
 
-<!--
-**DmitriiParfenov/DmitriiParfenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :man_health_worker: Обо мне:
 
-Here are some ideas to get you started:
+- :books: Степень магистра в области биотехнолгии
+- :dna: 3+ года опыта коммерческой разработки генотерапевтических препаратов в Agile-контуре по принципу Scrum (да-да, гибкий подход уже даже в биотехе :sunglasses:)
+- :rocket: Сейчас осваиваю профессию `Python-разработчик` на курсах от Skypro
+- :receipt: Супер крутые книги, которые мне помогли в освоении новой профессии и по которым я готовлю отдельный проект для обощения полученных знаний — [learning_materials](https://github.com/DmitriiParfenov/learning_materials.git):
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Изучаем Python, 4 издание. Марк Лутц.
+  - Начинаем программировать на Python, 5 издание. Тони Гэддис.
+  - Computer Science для программиста-самоучки. Кори Альтхофф.
+  - Грокаем алгоритмы. Адитья Бхаргава.
+  
+- Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-parfenovdf-blue?style=flat&logo=Telegram&logoColor=white)]([https://t.me/f1llzzz](https://t.me/parfenovdf)) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dima1996sik@gmail.com)
